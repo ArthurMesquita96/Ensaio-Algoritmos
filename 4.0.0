@@ -1,3 +1,0 @@
-Requirement already satisfied: plotly in c:\users\notebook\anaconda3\envs\f_machine_learning_env\lib\site-packages (5.16.1)
-Requirement already satisfied: tenacity>=6.2.0 in c:\users\notebook\anaconda3\envs\f_machine_learning_env\lib\site-packages (from plotly) (8.2.3)
-Requirement already satisfied: packaging in c:\users\notebook\anaconda3\envs\f_machine_learning_env\lib\site-packages (from plotly) (23.0)
